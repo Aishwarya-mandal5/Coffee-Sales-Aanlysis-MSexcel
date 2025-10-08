@@ -1,6 +1,6 @@
-# Coffee-Sales-Aanlysis-MSexcel
+# Coffee-Sales-Aanlysis-MSExcel
 
-_Analysing coffee consumption and revenue generation to understand customer preferences, improve operational efficiency and profitability, identify peak sales times using MS Excel.
+Analysing coffee consumption and revenue generation to understand customer preferences, improve operational efficiency and profitability, identify peak sales times using MS Excel.
 
 # Overview
 
@@ -9,8 +9,11 @@ This project demonstrate the product preference and seasonal preference of custo
 # Business Problem
 
 -Determine the sales and number of order in 2024.
+<br>
 -Evaluate revenue generation of coffee categories.
+<br>
 -Identify the peak time of coffee consumption.
+<br>
 -Quantify the choice of payment mode.
 
 # Data Set
@@ -20,18 +23,25 @@ Dataset was taken from kaggle.com
 # Tool and Technologies
 
 -Pivot table (Charts, filtering)
+<br>
 -MS Excel (Interactive visualization)
+<br>
 -Github
 
 # Key Findings
 
 -Revenue generation is $105.4k from 3317 orders in 2024
+<br>
 -Best selling product Latte($25.83k), Americano with milk($23.66k) and Cappuccino($16.50k), and Espresso is least selling yielding only $2.60k
+<br>
 -Coffee consumption is highest in October and February and lowest in January.
+<br>
 -97% customer preffred card payment instead of cash.
 
 # Author
 
 **Aishwarya Mandal**
+<br>
 Email: aishwaryamandal94@gmail.com
+<br>
 [LinkedIn](https://www.linkedin.com/in/aishwarya-mandal-2a145915b/)
