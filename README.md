@@ -2,11 +2,11 @@
 
 Analysing coffee consumption and revenue generation to understand customer preferences, improve operational efficiency and profitability, identify peak sales times using MS Excel.
 
-# Overview
+## Overview
 
 This project demonstrate the product preference and seasonal preference of customer along with revenue generation to derive strategic insight for promotion, pricing and optimise inventory. A complete analysis and visualisation is created with MS Excel.
 
-# Business Problem
+## Business Problem
 
 -Determine the sales and number of order in 2024.
 <br>
@@ -16,11 +16,11 @@ This project demonstrate the product preference and seasonal preference of custo
 <br>
 -Quantify the choice of payment mode.
 
-# Data Set
+## Data Set
 
 Dataset was taken from kaggle.com  
 
-# Tool and Technologies
+## Tool and Technologies
 
 -Pivot table (Charts, filtering)
 <br>
@@ -28,7 +28,7 @@ Dataset was taken from kaggle.com
 <br>
 -Github
 
-# Key Findings
+## Key Findings
 
 
 <img width="905" height="445" alt="Coffee Sales_Image" src="https://github.com/user-attachments/assets/c6bc81cd-00f6-41da-a485-96a8ecb97d49" />
@@ -41,7 +41,7 @@ Dataset was taken from kaggle.com
 <br>
 -97% customer preffred card payment instead of cash.
 
-# Author
+## Author
 
 **Aishwarya Mandal**
 <br>
