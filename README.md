@@ -30,6 +30,9 @@ Dataset was taken from kaggle.com
 
 # Key Findings
 
+
+<img width="905" height="445" alt="Coffee Sales_Image" src="https://github.com/user-attachments/assets/c6bc81cd-00f6-41da-a485-96a8ecb97d49" />
+
 -Revenue generation is $105.4k from 3317 orders in 2024
 <br>
 -Best selling product Latte($25.83k), Americano with milk($23.66k) and Cappuccino($16.50k), and Espresso is least selling yielding only $2.60k
